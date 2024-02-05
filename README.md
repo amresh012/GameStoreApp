@@ -74,14 +74,14 @@ Install dependencies
 
 Start the server
 
-```bash
+```bashC:\Users\DEBIAN\OneDrive\Desktop\My-Projects\MERN Project\GameStoreApp\Client\src\assets\images\rewards.png
   npm run start
 ```
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](C:\Users\DEBIAN\OneDrive\Desktop\My-Projects\MERN Project\GameStoreApp\Client\src\assets\images\rewards.png)
 
 
 ## Support
